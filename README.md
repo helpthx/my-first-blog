@@ -73,6 +73,8 @@ http://127.0.0.1:8000/home/
 * [Python3](https://www.python.org/download/releases/3.0/) - Main language
 * [Django](https://www.djangoproject.com/) - Django API 
 * [SQLite3](https://www.sqlite.org/index.html) - SQLite3 database
+* [PythonAnyWhere](https://www.pythonanywhere.com) - Online Host
+
 
 ## Authors
 
