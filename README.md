@@ -92,7 +92,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 * Based on a tutorial project: [Tutorial Django Girls](https://tutorial.djangogirls.org/pt/)
 
-## What's next ??
+## What's Next ??
 * [Django Oficial](https://docs.djangoproject.com/en/2.0/intro/tutorial01/)
 * [New Coder](http://newcoder.io/tutorials/)
 * [django-carrots](https://github.com/ggcarrots/django-carrots)
