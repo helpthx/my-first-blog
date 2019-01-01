@@ -82,7 +82,7 @@ http://127.0.0.1:8000/home/
 
 ## Authors
 
-* **João Vitor Rodrigues Baptista** - *Initial work* - [helpthx](https://github.com/helpthx)
+* **João Vitor Rodrigues Baptista** - [helpthx](https://github.com/helpthx)
 
 ## License
 
